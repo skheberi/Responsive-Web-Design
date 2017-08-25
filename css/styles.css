@@ -1,0 +1,441 @@
+@media (max-width: 750px) { 
+    .nav-tabs > li {
+        float:none;
+        width: 100%;
+    }
+}
+
+@media (max-width: 750px) { 
+    #MainPageDivDiv{
+    	width:80%;
+    	margin-left: 10%;
+    	margin-top: 5%;
+    }
+    #exampleInputName2{
+    	margin-left:8% !important;
+    	width: 50% !important;
+    }
+
+    #reset{
+    	width:20%;
+    }
+
+    .fbStar3{
+    	width:10% !important;
+
+    }
+
+    #btnPrev{
+    	width: 20% !important;
+    }
+
+    #btnNext{
+    	width: 20% !important;
+    }
+
+    .bab{
+    	width:95% !important;
+    	margin-left: 2.5% !important;
+    }
+
+    .babu{
+    	width:95% !important;
+    	margin-left: 2.5% !important;
+	}
+
+	#albumContDive{
+	margin-top: -5% !important;
+	}
+
+	#postHeaderTable{
+		margin-top: -5% !important;
+	}
+
+	.fbStar2 {
+		margin-left: 2.5% !important;
+	}
+
+	.fbStar3 {
+		margin-right: 2.5% !important;
+    margin-left: 6% !important;
+	}
+
+	#btnSubm{
+		width: 12% !important;
+		margin-right: 4%;
+	}
+
+}
+
+
+@media (max-width: 767px) {
+  .form-inline > .checkbox {
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+  .form-inline .form-control {
+    width: auto;
+    display: inline-block;
+  }
+  .form-inline label {
+    margin-right: 5px;
+  }
+  .form-inline .form-group {
+    display: inline-block;
+    margin-bottom: 0;
+    vertical-align: middle;
+  }
+
+  #f1{
+  	display: block !important;
+  	border-top: 1px solid #EBEBEB;
+  	border-bottom: 1px solid #EBEBEB;
+  	margin-top: 3%;
+  	padding-top: 2%;
+  	padding-bottom: 2%;
+  
+  }
+
+  #mainPageSec{
+  	margin-top: -3.5%;
+  }
+
+  #fbSearch{
+  	font-size: 1.3em;
+  	margin-left:8% !important;
+  }
+
+  #headerDiv{
+  	padding: 0;
+  	padding-top:3%;
+
+  }
+
+
+  #albumContentsDiv{
+  	margin-top:20% !important;
+  }
+
+   #PostContentsDiv{
+  	margin-top:20% !important;
+  }
+}
+
+
+
+@media (max-width: 768px) {
+  .btn-responsive {
+    padding:2px 4px;
+    font-size:80%;
+    line-height: 1;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 992px) {
+  .btn-responsive {
+    padding:4px 9px;
+    font-size:90%;
+    line-height: 1.2;
+  }
+}
+
+
+
+h4{
+	display: inline;
+}
+
+ 
+
+#f1{
+	display: inline;
+}
+
+#headerDiv{
+	background-color: #F8F8F8;
+}
+
+#exampleInputName2
+{
+	width:40%;
+	margin-left: 20%;
+	 -webkit-border-radius: 0px;
+ -moz-border-radius: 0px;
+ height:5.5%;
+}
+
+#fbSearch{
+	color:#48609D;
+	margin-left: 3%;
+}
+
+
+.divclass
+{
+
+height:0px;
+  overflow:hidden;
+ -moz-transition: opacity 0.4s ease-in-out;
+float:top;
+  
+}
+.divclass2
+{
+margin-bottom: 2%;
+height:auto;
+  overflow:hidden;
+ 
+
+  
+}
+
+
+
+.nav{
+  width:100%;
+}
+.yellow {
+    color: #FFCA28;
+}
+
+.y2k{
+	background: rgb(254,247,228); 
+}
+
+.wellwhite{
+	background: rgb(255,255,255); 
+}
+
+#timeDiv{
+	display:inline-block;
+	margin-left: 5%;
+}
+
+#imgDiv{
+	display: inline-block;
+	float:left;
+}
+#timerText{
+	font-size: 0.7em;
+	color: grey;
+	margin-top: -15;
+}
+
+.white{
+  color:#fff;
+}
+
+.blue
+{
+  background-color: red;
+}
+
+#AlbumHeading{
+	 position: absolute;
+    width: 100%;
+    left: 0;
+    top:0;
+   vertical-align: top;
+   border-bottom-left-radius: 0%;
+   border-bottom-right-radius: 0%;
+}
+
+
+#PostHeading{
+	position: absolute;
+    width: 100%;
+    left: 0;
+    top:0;
+   vertical-align: top;
+   border-bottom-left-radius: 0%;
+   border-bottom-right-radius: 0%;
+}
+
+
+#btnSubm{
+
+margin-left: -1.2%;
+width:9%;
+height:5.9%;
+ -webkit-border-radius: 0px;
+ -moz-border-radius: 0px;
+}
+
+#reset{
+	height:5.6%;
+   -webkit-border-radius: 0px;
+ -moz-border-radius: 0px;
+}
+
+.btn-sad:hover, .btn-sad:active, .btn-sad:focus , .btn-sad {background-color:#3B5998;
+background-image: none;
+}
+
+.take-all-space{
+    width:16.5%;
+}
+
+.nav-tabs li.active a, .nav-tabs li.active a:focus, .nav-tabs li.active a:hover{
+background-color: #3B5998;
+color:white;
+text-align: center;
+ -webkit-border-radius: 0px;
+ -moz-border-radius: 0px;
+}
+
+.nav li:hover a {
+    border: none;
+    background: none;
+
+}
+
+
+
+a{
+	color:black;
+}
+
+.nav li{
+	text-align: center;
+}
+
+
+#ds{
+	margin-top: 15%;
+	width:80%;
+	margin-left: 10%;
+}
+
+#btnSubF
+{
+  
+  background: url(facebook.png) no-repeat;
+  background-size: 60%;
+  background-position: center;
+
+}
+
+.btn-link {
+    /* font-weight: 400; */
+    color: black;
+    padding: 0px !important;
+    box-shadow: none;
+    /* border-radius: 0; */
+}
+
+.btn:focus,.btn:active {
+   outline: none !important;
+}
+
+
+.btn-link:focus,.btn-link:active {
+   outline: none !important;
+}
+h5{
+	margin-top: 0%;
+}
+
+.btn-clr{
+	border-color: #48609D;
+	color:#48609D;
+	margin-left: 3%;
+	background: rgb(255,255,255);
+}
+
+#albumNameHeader{
+background-color: #F5F5F5;
+margin-bottom: -3%;
+}
+
+.custImg{
+	border-radius: 2%;
+	margin:2%; 
+
+}
+
+
+
+.tabCust{
+	border-bottom: 2px solid #3B5998;
+
+}
+
+#detailsDiv{
+	padding: 2%;
+}
+
+.custBut{
+width:10% !important;
+margin-bottom: 5%;
+background: rgb(255,255,255);
+}
+
+#btnPrev{
+	margin-right: 3%;
+}
+
+
+.colro{
+	margin-top: 2%;
+}
+
+.fbStar3{
+	width:5%;
+	height:5%;
+	float:right;
+}
+
+.fbStar2{
+	
+	height:5%;
+}
+
+
+.bab{
+width:48.5%;
+margin-right: 3%;
+}
+
+.babu{
+  width:48.5%;
+}
+
+
+#AlbumContentsDiv{
+	margin-top: 10%;
+}
+
+#AlbumContentsDivee{
+	margin-top: 10%;
+}
+
+#PostContentsDiv{
+	margin-top: 10%;
+}
+#mainTable{
+	margin-top: 1%;
+}
+
+#sample0{
+	border: 1px solid #DCDCDC;
+
+
+}
+
+#ttTemp{
+	width:300 !important;
+	height:200 !important;
+}
+
+#albumContDive{
+	margin-top: 4%;
+}
+
+#painal{
+	border: none !important;
+}
+
+
+.table-responsive{
+padding:2%;
+}
